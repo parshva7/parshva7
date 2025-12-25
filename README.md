@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 Portfolio
-🔗 **Live Portfolio:** [View Here](https://parshva-portfolio.netlify.app/)
+🔗 **Live Portfolio:** [View Here](https://parshvaa-portfolio.netlify.app/)
 
 
 ---
