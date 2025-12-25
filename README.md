@@ -44,9 +44,7 @@ _(Replace with your actual Netlify link once deployed)_
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=parshva7&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshva7&theme=tokyonight" />
