@@ -14,8 +14,7 @@
 ---
 
 ### 🌐 Portfolio
-🚀 **Check out my portfolio:**  
-👉 **[https://your-portfolio-link.netlify.app](https://parshva-portfolio.netlify.app/)**
+🔗 **Live Portfolio:** [View Here](https://parshva-portfolio.netlify.app/)
 
 
 ---
