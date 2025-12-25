@@ -38,7 +38,7 @@ _(Replace with your actual Netlify link once deployed)_
 
 ### 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,powerBi,git,github" />
 </p>
 
 ---
