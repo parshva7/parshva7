@@ -38,7 +38,9 @@ _(Replace with your actual Netlify link once deployed)_
 
 ### 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,powerbi,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
 </p>
 
 ---
