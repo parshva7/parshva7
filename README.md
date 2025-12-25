@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parshva Panchal</h1>
+<h1 align="center">Hi! , I'm Parshva Panchal</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | AI & Data Science</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Data+Science;Building+Scalable+Web+Apps&center=true&width=600)
