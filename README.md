@@ -15,7 +15,7 @@
 
 ### 🌐 Portfolio
 🚀 **Check out my portfolio:**  
-👉 **https://your-portfolio-link.netlify.app**
+👉 **[https://your-portfolio-link.netlify.app](https://parshva-portfolio.netlify.app/)**
 
 _(Replace with your actual Netlify link once deployed)_
 
