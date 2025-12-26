@@ -45,10 +45,11 @@
 
 ### 📊 GitHub Stats
 
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshva7&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=parshva7&theme=tokyonight" height="170"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parshva7&show_icons=true&theme=tokyonight" height="170"/>
+</div>
 
 ---
 
