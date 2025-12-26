@@ -46,9 +46,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=parshva7&theme=tokyonight" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com?user=parshva7&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+  />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=parshva7&show_icons=true&theme=tokyonight" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=parshva7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+  />
 </div>
 
 ---
