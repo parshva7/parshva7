@@ -16,7 +16,7 @@
 ### 🌐 Portfolio
 🔗 **Live Portfolio:** [View Here](https://parshvaa-portfolio.netlify.app/)
 
-[Download Resume](./PARSHVA_Resume.pdf)
+[View Resume](./PARSHVA_Resume.pdf)
 
 
 
