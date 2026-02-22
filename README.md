@@ -1,5 +1,5 @@
 <h1 align="center">Hi! , I'm Parshva Panchal</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | AI & Data Science</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | AI & Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Analyst;MERN+Stack+Developer;AI+%26+Data+Science;Tableau+%26+Power+BI;Building+Scalable+Web+Apps&center=true&width=600" />
