@@ -1,8 +1,7 @@
 <h1 align="center">Hi! , I'm Parshva Panchal</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | AI & Data Science</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Data+Science;Building+Scalable+Web+Apps&center=true&width=600)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Data+Science;Data+Analyst;Tableau+%26+Power+BI;Building+Scalable+Web+Apps&center=true&width=600)
 ---
 
 ### 👨‍💻 About Me
