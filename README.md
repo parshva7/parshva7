@@ -16,7 +16,7 @@
 ### 🌐 Portfolio
 🔗 **Live Portfolio:** [View Here](https://parshva7.github.io/portfolio/)
 
-🔗 **Resume:** [View Here](./PARSHVA_RESUME_ONLINE.pdf)
+🔗 **Resume:** [View Here](./PARSHVA_CV_PAPER.pdf)
 
 
 
