@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN Stack | Artificial Intelligence Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Analyst;MERN+Stack+Developer;AI+%26+Data+Science;Tableau+%26+Power+BI;Building+Scalable+Web+Apps&center=true&width=600" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Data+Science;Tableau;Building+Scalable+Web+Apps&center=true&width=600" />
 </p>
 
 ### 👨‍💻 About Me
