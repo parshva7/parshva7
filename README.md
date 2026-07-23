@@ -6,9 +6,9 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I build **modern full-stack web applications**
-- 🌱 Exploring **backend systems, RESTful APIs & AI integration**
-- 💡 Passionate about **clean UI, scalable APIs, and data-driven solutions**
+- 💻 Full-Stack Developer | AI/ML Engineer
+- 🤖 Developing **web applications, AI/ML models, and backend services**
+- 📈 Learning **LLMs, computer vision, MLOps, and scalable system design**
 - 📫 Email: **parshav687@gmail.com**
 
 ---
